@@ -1,0 +1,236 @@
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form10.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form8.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form11.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form12.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form13.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form14.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form15.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form16.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form17.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form18.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form19.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form20.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form21.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form22.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form23.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form24.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form26.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form27.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form28.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form29.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form30.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form31.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form32.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form33.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form34.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form35.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form36.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form37.resources
+C:\Users\dhanashri\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form38.resources
+C:\Users\dhanashri\OneDrive\Desktop\laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\dhanashri\OneDrive\Desktop\laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\dhanashri\OneDrive\Desktop\laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form10.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form11.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form12.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form13.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form14.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form15.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form16.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form17.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form18.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form19.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form20.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form21.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form22.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form23.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form24.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form26.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form27.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form28.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form29.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form30.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form31.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form32.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form33.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form34.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form35.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form36.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form37.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form38.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form8.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form10.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form11.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form12.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form13.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form14.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form15.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form16.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form17.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form18.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form19.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form20.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form21.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form22.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form23.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form24.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form26.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form27.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form28.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form29.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form30.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form31.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form32.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form33.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form34.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form35.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form36.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form37.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form38.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form8.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Program Files (x86)\SAP_PRO\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.AssemblyReference.cache
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form10.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form11.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form12.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form13.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form14.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form15.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form16.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form17.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form18.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form19.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form20.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form21.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form22.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form23.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form24.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form26.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form27.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form28.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form29.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form30.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form31.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form32.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form33.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form34.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form35.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form36.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form37.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form38.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form8.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\dddddddddddd\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\New_stock.accdb
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form10.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form11.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form12.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form13.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form14.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form15.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form16.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form17.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form18.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form19.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form20.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form21.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form22.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form23.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form24.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form25.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form26.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form27.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form28.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form29.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form30.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form31.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form32.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form33.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form34.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form35.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form36.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form37.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form38.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form39.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form40.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form41.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form42.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form43.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form8.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\RdlCompile.cache
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\RdlCompile.compiled
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\LAPTOP SELLS AND SERVICES FINAL PROJECT\Laptop sales & sevices\2.laptop sales and services\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
